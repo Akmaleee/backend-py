@@ -1,0 +1,7 @@
+Flask
+pymysql
+python-dotenv
+bcrypt
+pyjwt
+tensorflow
+paddleocr
